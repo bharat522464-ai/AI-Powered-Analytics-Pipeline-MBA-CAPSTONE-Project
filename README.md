@@ -1,1 +1,27 @@
-README.md
+# HireSmart AI — AI-Powered Analytics Pipeline (MBA Capstone)
+
+**Concordia University Chicago · MBA Capstone · 2026**
+**Tools:** Python, Large Language Models (LLMs), Explainable AI
+
+## Overview
+HireSmart AI is a Python and LLM-based pipeline that automates data screening,
+validation, and KPI reporting, producing auditable outputs that business users
+can understand.
+
+## Results
+- Cut data processing time by 50% compared with the manual process
+- Produced auditable outputs, so every result can be traced to its source data
+- Used explainable AI so model decisions are clear to non-technical stakeholders
+
+## How it works
+1. Data is collected and loaded into the pipeline
+2. Records are automatically screened and validated
+3. An LLM analyzes the data and explains its outputs
+4. Results are summarized as KPIs for decision-makers
+
+## Files
+- `Hire Smart AI (2).pptx` — capstone presentation
+- `Hiresmart AI handout (4).pdf` — project summary handout
+
+## Author
+Bharat Kumar · Financial Analyst · [LinkedIn](https://www.linkedin.com/in/bharat-kumar-7b926228a)
